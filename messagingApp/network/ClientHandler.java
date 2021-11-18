@@ -58,4 +58,3 @@ public class ClientHandler extends Listener {
         client.close();
     }
 }
-
